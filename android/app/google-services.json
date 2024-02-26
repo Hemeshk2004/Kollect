@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "529170031442",
+    "project_id": "kollect-af082",
+    "storage_bucket": "kollect-af082.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529170031442:android:5227e41ceb959a4eacd08b",
+        "android_client_info": {
+          "package_name": "com.kollect.food"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCligi1_WUiJHlQG3sFnWiYC_52c1Abw7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
